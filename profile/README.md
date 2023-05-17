@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/tenbox-dev/.github/master/assets/cover.jpg">
+<img src="https://raw.githubusercontent.com/tenbox-dev/.github/master/assets/cover.png">
